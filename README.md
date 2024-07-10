@@ -1,2 +1,2 @@
-# Logisctics-Analysis
+# Logistics-Analysis
 Transportation Management - Logistics Analysis using Excel
