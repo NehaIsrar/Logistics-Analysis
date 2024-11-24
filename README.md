@@ -1,7 +1,8 @@
 # Logistics-Analysis
 Transportation Management Dashboard Using Excel and Analytical Skills
 
-![Uploading image.png…]()
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/98a67e26-a623-4d22-bf3b-d089348aa17d">
+
 
 
 Logistic analyst acts as catalyst to supply chain management
