@@ -1,6 +1,9 @@
 # Logistics-Analysis
 Transportation Management Dashboard Using Excel and Analytical Skills
 
+![Uploading image.png…]()
+
+
 Logistic analyst acts as catalyst to supply chain management
 In the ever-evolving field of logistics and supply chain, transportation Management plays a critical role. To enhance decision-making and streamline operations, a robust transportation management dashboard has been developed using Excel and advanced analytical skills. 
 
